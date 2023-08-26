@@ -2,8 +2,8 @@
 ![banner](https://github.com/UTshion/UTshion/blob/main/img/banner.png)
 
 Hi, thank you for visiting my profile!
-
 I am a japanese university student majoring in law and also very interested in science; especially, chemistry and computer science.
+
 I like to challenge a lot of things, including items in "My interests" below.
 I am glad if I can share my knowledge and findings with you, even a little bit!
 
