@@ -1,6 +1,12 @@
 
 ![banner](https://github.com/UTshion/UTshion/blob/main/img/banner.png)
 
+Hi, thank you for visiting my profile!
+I am a japanese university student majoring in law and also very interested in science; especially, chemistry and computer science.
+I like to challenge a lot of things, including items in "My interests" below.
+I am glad if I can share my knowledge and findings with you, even a little bit!
+
+---
 ## My Interests
 
 <p align="center">
@@ -21,16 +27,21 @@
 
 <img alt="Latex icon" src="https://img.shields.io/badge/Latex-%23008080?style=for-the-badge&logo=latex&logoColor=white">
 
+</p>
+
+## Working on
+
+<p align="center">
+
 <img alt="HTB icon" src="https://img.shields.io/badge/Hack_The_Box-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
 
 <img alt="HackerOne icon" src="https://img.shields.io/badge/Hacker_One-%23494649?style=for-the-badge&logo=hackerone&logoColor=white">
 
 <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 
-
 </p>
 
-## Env
+## Environment
 
 <p align="center">
 
