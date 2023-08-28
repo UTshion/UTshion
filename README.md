@@ -63,4 +63,4 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 
 </p>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/UTshion/UTshion/master/img/snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/UTshion/UTshion/main/img/snake.svg)
