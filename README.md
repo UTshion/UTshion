@@ -1,4 +1,3 @@
-
 ![banner](https://github.com/UTshion/UTshion/blob/main/img/banner.png)
 
 Hi, thank you for visiting my profile!<br>
@@ -8,10 +7,7 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 
 ### Stats
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UTshion&theme=radical" />
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UTshion&theme=radical" />
 
 ## My Interests
 
@@ -51,12 +47,11 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 
 <p align="center">
 
- <img alt="Ubuntu icon" src="https://img.shields.io/badge/Ubuntu-%232a2a2a?style=for-the-badge&logo=ubuntu&logoColor=%23E95420">
+<img alt="Ubuntu icon" src="https://img.shields.io/badge/Ubuntu-%232a2a2a?style=for-the-badge&logo=ubuntu&logoColor=%23E95420">
 
 <img alt="Kali icon" src="https://img.shields.io/badge/kali_linux-%232a2a2a?style=for-the-badge&logo=kalilinux&logoColor=%23557C94">
 
 <img alt="Windows icon" src="https://img.shields.io/badge/Windows-%232a2a2a?style=for-the-badge&logo=windows11&logoColor=%23557C94">
-
 
 <img alt="Neovim icon" src="https://img.shields.io/badge/Neovim-gray?style=for-the-badge&logo=neovim&logoColor=%2357A143">
 <img alt="VScode icon" src="https://img.shields.io/badge/VScode-gray?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC">
@@ -66,8 +61,7 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 ### Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UTshion/UTshion/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UTshion/UTshion/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UTshion/UTshion/output/github-contribution-grid-snake.svg">
 </picture>
-
