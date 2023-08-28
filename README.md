@@ -62,3 +62,5 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 <img alt="VScode icon" src="https://img.shields.io/badge/VScode-gray?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC">
 
 </p>
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/UTshion/UTshion/master/img/snake.svg)
