@@ -63,4 +63,10 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 
 </p>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/UTshion/UTshion/main/img/snake.svg)
+### Contribution Graph
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UTshion/UTshion/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UTshion/UTshion/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UTshion/UTshion/output/github-contribution-grid-snake.svg">
+</picture>
