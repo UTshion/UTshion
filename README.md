@@ -7,7 +7,11 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 
 ### Stats
 
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=UTshion&theme=radical" />
+-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UTshion&theme=horizon&border_radius=5)](https://git.io/streak-stats)
 
 ## My Interests
 
