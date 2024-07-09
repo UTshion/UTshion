@@ -56,6 +56,8 @@ I am glad if I can share my knowledge and findings with you, even a little bit!
 
 <p align="center">
 
+<img alt="Arch icon" src="https://img.shields.io/badge/Arch_linux-%232a2a2a?style=for-the-badge&logo=archlinux&logoColor=%#1793D1">
+
 <img alt="Ubuntu icon" src="https://img.shields.io/badge/Ubuntu-%232a2a2a?style=for-the-badge&logo=ubuntu&logoColor=%23E95420">
 
 <img alt="Kali icon" src="https://img.shields.io/badge/kali_linux-%232a2a2a?style=for-the-badge&logo=kalilinux&logoColor=%23557C94">
