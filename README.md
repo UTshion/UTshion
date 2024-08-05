@@ -3,7 +3,7 @@
 Hi, thank you for visiting my profile!<br>
 I am a japanese university student majoring in law and also very interested in science; especially, chemistry and computer science.<br>
 I like to challenge a lot of things, including items in [My Interests](#my-interests) below.<br>
-I am glad if I can share my knowledge and findings with you, even a little bit!
+I am glad if I can share my knowledge and findings with you, even a little bit.
 
 ### Stats
 
