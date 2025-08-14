@@ -58,6 +58,8 @@ I am glad if I can share my knowledge and findings with you, even a little bit.
 
 <p align="center">
 
+<img alt="Nix icon" src="https://img.shields.io/badge/NixOS-%232a2a2a?style=for-the-badge&logo=nixos&logoColor=%#1793D1">
+
 <img alt="Arch icon" src="https://img.shields.io/badge/Arch_linux-%232a2a2a?style=for-the-badge&logo=archlinux&logoColor=%#1793D1">
 
 <img alt="Ubuntu icon" src="https://img.shields.io/badge/Ubuntu-%232a2a2a?style=for-the-badge&logo=ubuntu&logoColor=%23E95420">
