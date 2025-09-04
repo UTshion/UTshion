@@ -1,8 +1,11 @@
+
 ## Hi there! 👋
 
 I'm a law graduate with a deep fascination for science, mathematics, and computer science. While I continue to pursue legal studies, I'm passionate about exploring the intersection of law and technology, particularly in cybersecurity and digital rights.
 
 My interests span across diverse fields including video/image editing, music production, and creative content creation alongside technical pursuits.
+
+<br>
 
 ### Stats
 <div align="center">
