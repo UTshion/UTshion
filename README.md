@@ -19,7 +19,7 @@ My interests span across diverse fields including video/image editing, music pro
 <p align="center">
 <img alt="Rust icon" src="https://img.shields.io/badge/Linux-%23fcc624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="Rust icon" src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white">
-<img alt="Nix icon" src="https://img.shields.io/badge/Nix-%235277C3?style=for-the-badge&logo=nixos&logoColoror=white">
+<img alt="Nix icon" src="https://img.shields.io/badge/Nix-%235277C3?style=for-the-badge&logo=nixos&logoColor=white">
 <img alt="Go icon" src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img alt="C++ icon" src="https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img alt="Python icon" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
